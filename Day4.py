@@ -13,3 +13,7 @@ def firspositive(a):
               return [i]    
     if i>a[len(a)-1]:
        return i
+
+
+#input [3, 4, -1, 1]
+#output 2
